@@ -17,7 +17,7 @@
 ## Productividad
 
 - [ ] [Organízate con eficacia - David Allen](https://www.amazon.es/Organ%C3%ADzate-eficacia-edici%C3%B3n-revisada-conocimiento/dp/8492921307/ref=sr_1_1?ie=UTF8&qid=1520769396&sr=8-1&keywords=organizate+con+eficacia). Libro físico
-- [ ] Los 7 hábitos de la gente altamente eficaz
+- [ ] Los 7 hábitos de la gente altamente eficaz - 
 
 ## SVG
 
