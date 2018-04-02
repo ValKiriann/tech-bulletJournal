@@ -8,6 +8,11 @@
 
 - [ ] [Hacking de videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y&feature=youtu.be)
 
+### NodeJs
+
+- [ ] [Curso NodeJs - CódigoFacilito](https://www.youtube.com/watch?v=fLZ3L9MIXAQ&index=1&list=PLpOqH6AE0tNjx0SzNvlsP9-JGJ0zmuFnS)
+
+
 ## Raspberry pi projects
 
 - [ ] [3D Printed Super Game Pi - Raspberry Pi Gameboy](https://www.youtube.com/watch?v=f_zp42fQ-dQ) 
